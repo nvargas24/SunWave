@@ -1,0 +1,17 @@
+# Ignora todos los archivos en la carpeta Poncho_modular_EDUCIAA, excepto los archivos de esquemáticos, PCB y .pro
+PCB/Poncho_modular_EDUCIAA/*
+!PCB/Poncho_modular_EDUCIAA/*.pro
+!PCB/Poncho_modular_EDUCIAA/*.sch
+!PCB/Poncho_modular_EDUCIAA/*.kicad_pcb
+
+# Ignora todos los archivos en la carpeta Poncho_modular_EDUCIAA, excepto los archivos de esquemáticos, PCB y .pro
+PCB/Prototipo_V1/*
+!PCB/Prototipo_V1/*.pro
+!PCB/Prototipo_V1/*.sch
+!PCB/Prototipo_V1/*.kicad_pcb
+
+# Ignora todos los archivos en la carpeta Poncho_modular_EDUCIAA, excepto los archivos de esquemáticos, PCB y .pro
+PCB/Prototipo_V2/*
+!PCB/Prototipo_V2/*.pro
+!PCB/Prototipo_V2/*.sch
+!PCB/Prototipo_V2/*.kicad_pcb
